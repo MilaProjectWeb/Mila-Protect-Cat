@@ -57,7 +57,7 @@ a {
 /* Header */
 .header {
     position: relative;
-    background-image: url("./assets/img/header-bg-image.jpg");
+    background-image: url("assets/img/header-bg-image.jpg");
     background-size: cover;
     height: 100vh;
 }
